@@ -27,7 +27,8 @@
     ],
     "reporter": [
       "html",
-      "text"
+      "cobertura",
+      "xml"
     ]
   },
   "repository": {
